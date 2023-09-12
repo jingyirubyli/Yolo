@@ -1,0 +1,11 @@
+names:
+  0: S3
+  1: S2
+  2: S1
+  3: IVC
+  4: Tumor
+nc: 5
+path: ../datasets/tumor
+test: ' '
+train: images/train
+val: images/val
